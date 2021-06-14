@@ -12,7 +12,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "59a207a8ef555c734e4fadcf929b4d5b",
-"/": "59a207a8ef555c734e4fadcf929b4d5b",
+"https://ushieru.github.io/test_gh_pages/": "59a207a8ef555c734e4fadcf929b4d5b",
 "main.dart.js": "ccc26b9ddc679dbf553539adbce94351",
 "manifest.json": "406d07d104006c1fadec92da616c523a",
 "version.json": "33693f794c9b7382c8308b56c8d08fc5"
